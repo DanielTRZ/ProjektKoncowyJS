@@ -23,5 +23,4 @@ else if(!numer)
   wynik.innerHTML = '<span style="color:red">Wpisz liczbę.</span>';  
 else
     wynik.innerHTML = '<span style="color:red">Niestety przegrałeś.</span>';
-
 } 
