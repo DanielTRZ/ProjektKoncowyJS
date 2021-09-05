@@ -16,12 +16,10 @@ body {
 .content input {
     border-radius: 5px;
 }
-
 .employeeList {
     margin-top: 10px;
     list-style-type: none; 
 }
-
 .employeeList li {
     margin-top: 10px;
     border: 1px #b1b1b1 solid;
@@ -35,7 +33,6 @@ body {
 .employee {
     margin-bottom: 10px;
 }
-
 .employee label {
     margin-right: 8px;
 }
