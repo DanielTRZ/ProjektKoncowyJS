@@ -35,7 +35,6 @@ body {
 .employee label {
     margin-right: 8px;
 }
-
 .submitButton {
     border-radius: 3px;
     color: white;
@@ -46,13 +45,10 @@ body {
 }
 /* Task2 */
 
-
 /* Task5 */
-
 #squaresContainer {
   display: flex;
-  flex-wrap: wrap;
-        
+  flex-wrap: wrap;        
 }
 
 
