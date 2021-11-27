@@ -1,4 +1,3 @@
-
 /*function losuj() { 
     const luckyNumber = "7"; 
     const num = document.getElementById('randomNumber').value;  
