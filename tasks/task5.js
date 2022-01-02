@@ -8,12 +8,9 @@ function div_add() {
         element.style.height = '100px';
         element.style.backgroundColor = getRandomColor();
         var cont = document.getElementById("squaresContainer");
-        cont.appendChild(element);}
-        
-    
+        cont.appendChild(element);}           
 }
  function getRandomColor() {
     let color = '#' + Math.floor(Math.random() * 1000000);
     return color;
   }
-
