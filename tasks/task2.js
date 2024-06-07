@@ -9,8 +9,7 @@ if(liczba1 === liczba2)
 wynik.innerHTML = '<span>Liczby są równe.</span>';
      
 else{
-        
-        const wieksza = liczba1 > liczba2 ? liczba1 : liczba2;
+const wieksza = liczba1 > liczba2 ? liczba1 : liczba2;
         
           
         wynik.innerHTML = `<span>Większą liczbą jest: ${wieksza}</span>`
