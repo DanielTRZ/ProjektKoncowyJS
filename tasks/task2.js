@@ -6,7 +6,7 @@ const liczba2 = parseFloat (document.getElementById("secondNumberToCompare").val
 const wynik = document.getElementById('resultContainer2');
     
 if(liczba1 === liczba2) 
-        wynik.innerHTML = '<span>Liczby są równe.</span>';
+wynik.innerHTML = '<span>Liczby są równe.</span>';
      
     else  {
         
