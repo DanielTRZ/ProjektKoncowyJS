@@ -1,7 +1,7 @@
 /*function losuj() { 
 const luckyNumber = "7"; 
 const num = document.getElementById('randomNumber').value;  
-    const wynik = document.getElementById('resultContainer1'); 
+const wynik = document.getElementById('resultContainer1'); 
     
     if (num === luckyNumber)  
          wynik.innerHTML = '<span style="color:green">Gratulacje wygrałeś.</span>';  
