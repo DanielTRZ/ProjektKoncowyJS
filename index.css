@@ -48,5 +48,5 @@ font-size: 17px;
 /* Task5 */
 #squaresContainer {
 display: flex;
-  flex-wrap: wrap;        
+flex-wrap: wrap;        
 }
