@@ -1,7 +1,7 @@
 
 
 function wieksza() {
-    const liczba1 = parseFloat (document.getElementById("firstNumberToCompare").value);
+const liczba1 = parseFloat (document.getElementById("firstNumberToCompare").value);
     const liczba2 = parseFloat (document.getElementById("secondNumberToCompare").value);
     const wynik = document.getElementById('resultContainer2');
     
