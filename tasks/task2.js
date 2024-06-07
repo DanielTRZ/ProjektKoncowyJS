@@ -8,7 +8,7 @@ const wynik = document.getElementById('resultContainer2');
 if(liczba1 === liczba2) 
 wynik.innerHTML = '<span>Liczby są równe.</span>';
      
-else  {
+else{
         
         const wieksza = liczba1 > liczba2 ? liczba1 : liczba2;
         
