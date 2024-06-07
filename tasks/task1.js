@@ -5,7 +5,7 @@ const wynik = document.getElementById('resultContainer1');
     
 if (num === luckyNumber)  
 wynik.innerHTML = '<span style="color:green">Gratulacje wygrałeś.</span>';  
-    else 
+else 
          wynik.innerHTML = '<span style="color.red">Niestety przegrałeś</span>';
 
 }*/
