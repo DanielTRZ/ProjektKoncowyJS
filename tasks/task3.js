@@ -11,7 +11,6 @@ numbersArray.forEach(function(num) {
 if(num > 10) suma += num;
 })
 wynik.innerHTML = `<span>Suma liczb wiekszych od 10 w tablicy wynosi ${suma}`;
-
 }
 
 
