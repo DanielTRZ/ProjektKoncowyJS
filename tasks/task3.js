@@ -16,7 +16,7 @@ wynik.innerHTML = `<span>Suma liczb wiekszych od 10 w tablicy wynosi ${suma}`;
 function dodaj(){
 const nowaLiczba = parseInt(numberToAddToArray.value);
     
-     if(!nowaLiczba) return;
+if(!nowaLiczba) return;
             
     
     numbersArray.push(nowaLiczba);
