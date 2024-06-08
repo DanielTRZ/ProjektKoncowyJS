@@ -13,7 +13,7 @@ const wieksza = liczba1 > liczba2 ? liczba1 : liczba2;
         
           
 wynik.innerHTML = `<span>Większą liczbą jest: ${wieksza}</span>`
-    }  
+}  
 }
 
         
