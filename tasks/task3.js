@@ -19,7 +19,7 @@ const nowaLiczba = parseInt(numberToAddToArray.value);
 if(!nowaLiczba) return;
             
     
-    numbersArray.push(nowaLiczba);
+numbersArray.push(nowaLiczba);
     numbersArrayDiv.innerHTML = numbersArray;
     
     
