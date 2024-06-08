@@ -5,7 +5,7 @@ const numbersArrayDiv = document.getElementById('numbersArray');
 numbersArrayDiv.innerHTML = numbersArray; 
 
 function oblicz() {
-    let suma = 0;
+let suma = 0;
     const wynik = document.getElementById('resultContainer3');
     
 
