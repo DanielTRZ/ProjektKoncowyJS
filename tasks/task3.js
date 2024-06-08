@@ -7,9 +7,7 @@ numbersArrayDiv.innerHTML = numbersArray;
 function oblicz() {
 let suma = 0;
 const wynik = document.getElementById('resultContainer3');
-    
-
-   numbersArray.forEach(function(num) {
+numbersArray.forEach(function(num) {
        if(num > 10) suma += num;
    })
 
