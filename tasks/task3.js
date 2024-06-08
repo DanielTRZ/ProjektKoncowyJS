@@ -21,7 +21,5 @@ if(!nowaLiczba) return;
     
 numbersArray.push(nowaLiczba);
 numbersArrayDiv.innerHTML = numbersArray;
-    
-    
-    
+     
 }
