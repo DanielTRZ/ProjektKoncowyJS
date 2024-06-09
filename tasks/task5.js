@@ -6,7 +6,7 @@ let element = document.createElement('div');
 element.id = 'bloczek';
 element.style.width = '100px';
 element.style.height = '100px';
-        element.style.backgroundColor = getRandomColor();
+element.style.backgroundColor = getRandomColor();
         var cont = document.getElementById("squaresContainer");
         cont.appendChild(element);}           
 }
