@@ -11,6 +11,6 @@ var cont = document.getElementById("squaresContainer");
 cont.appendChild(element);}           
 }
 function getRandomColor() {
-    let color = '#' + Math.floor(Math.random() * 1000000);
+let color = '#' + Math.floor(Math.random() * 1000000);
     return color;
   }
