@@ -2,7 +2,7 @@
 //HTMLButtonElement.addEventListener('click', div_add, false);
 function div_add() {
 for(i=0; i<5;i++){
-        let element = document.createElement('div');
+let element = document.createElement('div');
         element.id = 'bloczek';
         element.style.width = '100px';
         element.style.height = '100px';
