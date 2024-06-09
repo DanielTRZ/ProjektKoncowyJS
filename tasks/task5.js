@@ -10,7 +10,7 @@ element.style.backgroundColor = getRandomColor();
 var cont = document.getElementById("squaresContainer");
 cont.appendChild(element);}           
 }
- function getRandomColor() {
+function getRandomColor() {
     let color = '#' + Math.floor(Math.random() * 1000000);
     return color;
   }
